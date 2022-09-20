@@ -16,7 +16,7 @@ Textbook
 Syllabus
 ======
 <ul>
-Cell structures and functions</li> 
+<li>Cell structures and functions</li> 
 <li>Cellular Respiration</li>
 <li>Cell Communication</li>
 <li>Photosynthesis</li>
