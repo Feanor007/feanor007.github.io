@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Biology Olympiad"
-<!-- permalink: /teaching/2014-spring-teaching-1 -->
+permalink: 
 venue: "Mirror Education. Shanghai"
 date: 2020-present
 location: "City, Country"
