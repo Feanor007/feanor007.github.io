@@ -19,13 +19,4 @@ Li, H., Tang, Z., Nan, Y. and Yang, G., 2022. Human Treelike Tubular Structure S
 
 Nan, Y., Del Ser, J., Tang, Z., Tang, P., Xing, X., Fang, Y., Herrera, F., Pedrycz, W., Walsh, S. and Yang, G., 2022. Fuzzy Attention Neural Network to Tackle Discontinuity in Airway Segmentation. arXiv preprint arXiv:2209.02048 (Submitted to IEEE Transactions on Neural Networks and Learning Systems)
 [[Link]](https://arxiv.org/abs/2209.02048)
-<!-- 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
