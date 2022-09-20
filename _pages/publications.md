@@ -14,10 +14,10 @@ Wu, Y., Tang, Z., Li, B., Firmin, D. and Yang, G., 2021. Recent Advances in Fibr
 
 ## Submitted Manuscripts
 
+Tang, Z., Nan, Y. Yang, G. 2022. Adversarial Transformer for Repairing Human Airway Segmentation (Submitted to <i>Applied Soft Computing</i>) 
+
 Li, H., Tang, Z., Nan, Y. and Yang, G., 2022. Human Treelike Tubular Structure Segmentation: A Comprehensive Review and Future Perspectives. arXiv preprint arXiv:2207.11203. (Revised manuscript in review in <i>Computers in Biology and Medicine</i>)
 [[Link]](https://arxiv.org/abs/2207.11203)
 
 Nan, Y., Del Ser, J., Tang, Z., Tang, P., Xing, X., Fang, Y., Herrera, F., Pedrycz, W., Walsh, S. and Yang, G., 2022. Fuzzy Attention Neural Network to Tackle Discontinuity in Airway Segmentation. arXiv preprint arXiv:2209.02048 (Submitted to <i>IEEE Transactions on Neural Networks and Learning Systems</i>)
 [[Link]](https://arxiv.org/abs/2209.02048)
-
-Tang, Z., Nan, Y. Yang, G. 2022. Adversarial Transformer for Repairing Human Airway Segmentation (Submitted to <i>Applied Soft Computing</i>) 
