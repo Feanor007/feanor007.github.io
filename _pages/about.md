@@ -12,4 +12,4 @@ Hello, I am Zeyu Tang, an MEng student at Imperial College London, majoring in B
 
 My two favourite biologists are Gregor Mendel and Frederick Sanger. They are role models I look up to and will forever inspire my research career.
 
-<img src='/images/531px-Gregor_Mendel_2.jpg'> <img src='/images/540px-Frederick_Sanger2.jpg'>
+<img src='/images/354px-Gregor_Mendel_2.jpg'> <img src='/images/360px-Frederick_Sanger2.jpg'>
