@@ -8,13 +8,30 @@ date: 2020-08-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Textbook
 ======
+<i>Campbell Biology, 10th edition</i>
 
-Heading 2
+Syllabus
 ======
+Cell structures and functions 
+Cellular Respiration
+Cell Communication
+Photosynthesis
+Transport in Plant
+Transport in Animals
+Mendelian Genetics
+Linked Gene inheritance
+DNA Replication
+Gene Expression and Regulation 
+DNA technology
+Darwinism 
+Evolution of Population 
+Speciation
+Immune System
+Excretion  System
+Endocrine system
+Plant Hormones
+Nervous system
 
-Heading 3
-======
