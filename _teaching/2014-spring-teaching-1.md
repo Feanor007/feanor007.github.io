@@ -4,7 +4,7 @@ collection: teaching
 type: "Biology Olympiad"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Mirror Education. Shanghai"
-date: 2020-present
+date: 2020-08-01
 location: "City, Country"
 ---
 
