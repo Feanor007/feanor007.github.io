@@ -7,7 +7,7 @@ venue: "Mirror Education. Shanghai"
 date: 2020-08-01
 location: "City, Country"
 ---
-
+I teach high schoolers for their British Biology Olympiad (BBO) and USA Biology Olympiad (USABO).
 
 Textbook
 ======
