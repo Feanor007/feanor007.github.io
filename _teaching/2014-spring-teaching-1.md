@@ -15,23 +15,24 @@ Textbook
 
 Syllabus
 ======
-Cell structures and functions 
-Cellular Respiration
-Cell Communication
-Photosynthesis
-Transport in Plant
-Transport in Animals
-Mendelian Genetics
-Linked Gene inheritance
-DNA Replication
-Gene Expression and Regulation 
-DNA technology
-Darwinism 
-Evolution of Population 
-Speciation
-Immune System
-Excretion  System
-Endocrine system
-Plant Hormones
-Nervous system
-
+<ul>
+Cell structures and functions</li> 
+<li>Cellular Respiration</li>
+<li>Cell Communication</li>
+<li>Photosynthesis</li>
+<li>Transport in Plant</li>
+<li>Transport in Animals</li>
+<li>Mendelian Genetics</li>
+<li>Linked Gene inheritance</li>
+<li>DNA Replication</li>
+<li>Gene Expression and Regulation</li>
+<li>DNA technology</li>
+<li>Darwinism</li> 
+<li>Evolution of Population</li> 
+<li>Speciation</li>
+<li>Immune System</li>
+<li>Excretion  System</li>
+<li>Endocrine system</li>
+<li>Plant Hormones</li>
+<li>Nervous system</li>
+</ul>
