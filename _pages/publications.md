@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Published in peer-reviewed journals
 
-Li, H.*, Tang, Z.*, Nan, Y. and Yang, G., 2022. Human Treelike Tubular Structure Segmentation: A Comprehensive Review and Future Perspectives. arXiv preprint arXiv:2207.11203. (Revised manuscript in review in <i>Computers in Biology and Medicine</i>)
+Li, H.<sup>*</sup>, Tang, Z.<sup>*</sup>, Nan, Y. and Yang, G., 2022. Human Treelike Tubular Structure Segmentation: A Comprehensive Review and Future Perspectives. arXiv preprint arXiv:2207.11203. (Revised manuscript in review in <i>Computers in Biology and Medicine</i>)
 [[Link]]([https://arxiv.org/abs/2207.11203](https://www.sciencedirect.com/science/article/pii/S0010482522009490?via%3Dihub))
 
 Li, M., Fang, Y., Tang, Z., Onuorah, C., Xia, J., Ser, J., Walsh, S. and Yang, G., 2022. Explainable COVID-19 Infections Identification and Delineation Using Calibrated Pseudo Labels. <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i>, pp.1-10.
