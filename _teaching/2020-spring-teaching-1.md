@@ -4,7 +4,7 @@ collection: teaching
 type: "Biology Olympiad"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Mirror Education. Shanghai"
-date: 2020-08-01
+date: 2020-01-01
 location: "City, Country"
 ---
 I have been teaching high school students for their British Biology Olympiad (BBO) and USA Biology Olympiad (USABO) since 2020.
